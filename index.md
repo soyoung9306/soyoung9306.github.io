@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI.MANUFACTURING
-subtitle: SMARTDESIGNLAB, SOOKMYUNG WOMEN'S UNIVERSITY
+subtitle: PhD Student in Sookmyung Women's University
 #cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
