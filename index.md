@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Researcher in Manufacturing Research
+title: AI.manufacturing
 subtitle: SmartDesignLab, Sookmyung Women's University
 #cover-img: /assets/img/itu-seokho-m4.jpg
 ---
