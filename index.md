@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI+Manufacturing
-subtitle: PhD Student in Sookmyung Women's University
+subtitle: Ph.D Student in Sookmyung Women's University
 #cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
