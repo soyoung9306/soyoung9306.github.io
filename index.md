@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML/DL Researcher
-subtitle: SmartDesignLab, Sookmyung Woman's University
+title:  Manufacturing & AI Researcher
+subtitle: SmartDesignLab, Sookmyung Women's University
 #cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
