@@ -5,7 +5,6 @@ title: Research Career
 
 <br/>
 
-
 # Research Experience
 
 ### Electronics and Telecommunications Research Institute
