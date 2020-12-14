@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Blog soyoung Yoo
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website of Seokho Son
@@ -16,7 +16,7 @@ navbar-links:
   Publication: "publication"
   Blog: "blog"
   Project: "project"
-  GitHub: "https://github.com/seokho-son"
+  GitHub: "https://github.com/soyoung9306"
   Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
@@ -36,9 +36,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
+  email: "soyoung9306@gmail.com"
+  #facebook: seokho.son.korea
+  github: soyoung Yoo
   linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
