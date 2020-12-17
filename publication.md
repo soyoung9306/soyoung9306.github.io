@@ -39,9 +39,3 @@ title: Publication
 - Lee, S., **Yoo, S.**, Kim, S., Kim, E., and Kang, N.* (2019) “사용자 경험 데이터 주도의 자율주행 택시 기술 수용성 분석”, 대한기계학회 2019년 학술대회 (포스터)
 
 - Kim, S., Lee, S., **Yoo, S.**, Kim, E., and Kang, N.* (2019) “Generative Design: Engineering Design + Deep Learning”, The AI Korea 2019 컨퍼런스 (포스터)
-
-# Patents
-
-- “차량의 휠 성능 예측 장치 및 그 방법”, 출원번호: 10-2020-0097470.
- 
-- “퍼스널 모빌리티 주행정보 감별 시스템 및 이의 제어방법”, 출원번호: 10-2020-0032163.
