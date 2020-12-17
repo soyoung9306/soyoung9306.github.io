@@ -18,7 +18,7 @@ title: Research Career
 * 현대자동차: **휠 형상 제시를 위한 AI 기반 제너레이티브 디자인 프레임워크 개발 - 휠 강성과 심미성을 고려**, 2020.4-2021.2
   * Role: 
   
-* 현대자동차: **딥러닝을 활용한 데이터 기반 로드휠 성능 예측 기법 연구**, 2020.2-2020.10
+*  현대자동차: **딥러닝을 활용한 데이터 기반 로드휠 성능 예측 기법 연구**, 2020.2-2020.10
   * Role: 
   
 #### (completed)
@@ -34,3 +34,12 @@ title: Research Career
 * TA of 현대자동차, **인공지능 기반 설계 이론 및 사례 연구**, 2020.9-2020.12
 * TA of 한국기계연구원, **KIMM AI 윈터스쿨 - 비지도 학습**, Dec 2019
 * TA of 한국기계연구원, **KIMM AI 서머스쿨 - 생성 모델의 이론과 실습**, Aug 2019
+
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
