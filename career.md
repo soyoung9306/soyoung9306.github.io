@@ -34,12 +34,3 @@ title: Research Career
 * TA of 현대자동차, **인공지능 기반 설계 이론 및 사례 연구**, 2020.9-2020.12
 * TA of 한국기계연구원, **KIMM AI 윈터스쿨 - 비지도 학습**, Dec 2019
 * TA of 한국기계연구원, **KIMM AI 서머스쿨 - 생성 모델의 이론과 실습**, Aug 2019
-
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-
-// colors
-s { color: green }
-em { color: blue }
