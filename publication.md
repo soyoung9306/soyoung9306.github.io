@@ -10,11 +10,11 @@ title: Publication
 
 - **Yoo, S.** and Kang, N.* “Explainable Artificial Intelligence for Manufacturing Cost Estimation and Machining Feature Visualization", Expert Systems with Applications
 
-- **Yoo, S.**, Lee, S., Kim, S., Hwang, K. H, Park, J. H., Kang, N.* “Integrating Deep Learning into CAD/CAE System: Case Study on Road Wheel Design Automation", Structural and Multidisciplinary Optimization (PDF) (arXiv)
+- **Yoo, S.**, Lee, S., Kim, S., Hwang, K. H, Park, J. H., Kang, N.* “Integrating Deep Learning into CAD/CAE System: Case Study on Road Wheel Design Automation", Structural and Multidisciplinary Optimization.
 
-- **Yoo, S.**, Lee, S., Kim, S., Kim, E, Hwangbo, H., and Kang, N.* “A Study on Anxiety about Using Robo-taxis: HMI Design for Anxiety Factor Analysis and Anxiety Relief Based on Field Tests”, Human-Computer Interaction (PDF) (arXiv)
+- **Yoo, S.**, Lee, S., Kim, S., Kim, E, Hwangbo, H., and Kang, N.* “A Study on Anxiety about Using Robo-taxis: HMI Design for Anxiety Factor Analysis and Anxiety Relief Based on Field Tests”, Human-Computer Interaction.
 
-- Lee, S., **Yoo, S.**, Kim, S., Kim, E, and Kang, N.* “The Effect of Robo-taxi User Experience on User Acceptance: Field Test Data Analysis”, Transportation Research Record: Journal of the Transportation Research Board (PDF) (arXiv)
+- Lee, S., **Yoo, S.**, Kim, S., Kim, E, and Kang, N.* “The Effect of Robo-taxi User Experience on User Acceptance: Field Test Data Analysis”, Transportation Research Record: Journal of the Transportation Research Board.
 
 ### Conference Papers
 
