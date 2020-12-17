@@ -35,8 +35,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "soyoung9306@gmail.com"
-  lab : "http://smartdesignlab.org/"
+#  email: "soyoung9306@gmail.com"
+#  lab : "http://smartdesignlab.org/"
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
