@@ -9,8 +9,6 @@ subtitle: Ph.D Student in Sookmyung Women's University
 
 ## About me
 
-**Soyoung Yoo** is a **Ph.D Student** of Sookmyung women's university 
-
 • **Area of interest** : Deep Learning / Machine Learning
 
 • **Research domain** : Generative Design / Domain Adaptation
