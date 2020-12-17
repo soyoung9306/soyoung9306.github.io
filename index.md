@@ -13,7 +13,7 @@ subtitle: Ph.D Student in Sookmyung Women's University
 
 • **Research domain** : Generative Design / Manufacturing / Domain Adaptation 
 
-• **Main skill** : 3D Deep learning deal with 3D data (CAD, Mesh, Voxel and Point-cloud)
+• **Main skill** : 3D Deep learning on 3D data (CAD, Mesh, Voxel and Point-cloud)
 
 ## Contact
 
