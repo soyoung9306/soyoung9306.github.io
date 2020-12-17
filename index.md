@@ -9,16 +9,18 @@ subtitle: Ph.D Student in Sookmyung Women's University
 
 ## About me
 
-**Soyoung Yoo** is a **PH.D Student_** of Sookmyung women's university 
+**Soyoung Yoo** is a **PH.D Student** of Sookmyung women's university 
 
-• 관심기술 : **Deep Learning** / **Machine Learning** 
-• 연구 도메인 : **AI-based Design** / **Generative Design** / **Domain Adaptation**
-• 주요 기술 : **3D Data(CAD, MESH, Point Cloud)** / **3D Deep learning**   
+• **Area of interest** : Deep Learning / Machine Learning
+
+• **Research domain** : Generative Design / Domain Adaptation
+
+• **Main skill** : 3D Deep-learning deal with 3D data(CAD,Mesh,Point-cloud)
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Office: Sookmyung Women's University, Cheongpa-ro 47-gil 100 (Cheongpa-dong 2(i)-ga), Yongsan-gu, Seoul, 04310, Korea.
+Email: soyoung9306@gmail.com
+My Laboratory : [smartdesignlab](http://www.smartdesignlab.org/about.html).
 ```
