@@ -7,11 +7,23 @@ title: Research Career
 
 # Award
 
-# Research Experience
+* 2019학년도 대학원 졸업자 우수 논문상 수상(숙명여자대학교)
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+# Research Experience
+## Project
+### (ongoing)
+
+* 현대자동차: _**"휠 형상 제시를 위한 AI 기반 제너레이티브 디자인 프레임워크 개발 - 휠 강성과 심미성을 고려"**_, 2020.4-2021.2
+  * Role: 
+* 현대자동차: _**"딥러닝을 활용한 데이터 기반 로드휠 성능 예측 기법 연구"**_, 2020.2-2020.10
+  * Role: 
+  
+### (completed)
+
+* 현대자동차: _**"인공지능 기반 제너레이티브 디자인 프레임워크 개발: 휠 설계 사례 연구"**_, 2019.8-2020.2
+  * Role: 
+* 현대자동차: _**"자율주행 기술 수용성 증진을 위한 필드스터디 기반 사용자 경험 연구"**_, 2018.10-2019.3
+  * Role: 
+
+# Teaching Experience
+* TA of 현대자동차 _**"인공지능 기반 설계 이론 및 사례 연구"**_, 2020.9-2020.12 (PI)
