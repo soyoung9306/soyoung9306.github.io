@@ -8,7 +8,7 @@ title: Publication
 
 #### International
 
-- **Yoo, S.** and Kang, N.* “Explainable Artificial Intelligence for Manufacturing Cost Estimation and Machining Feature Visualization", Expert Systems with Applications
+- **Yoo, S.** and Kang, N.* “Explainable Artificial Intelligence for Manufacturing Cost Estimation and Machining Feature Visualization", Expert Systems with Applications.
 
 - **Yoo, S.**, Lee, S., Kim, S., Hwang, K. H, Park, J. H., Kang, N.* “Integrating Deep Learning into CAD/CAE System: Case Study on Road Wheel Design Automation", Structural and Multidisciplinary Optimization.
 
