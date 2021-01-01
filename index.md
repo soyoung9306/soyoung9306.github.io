@@ -2,7 +2,7 @@
 layout: page
 title: Soyoung Yoo
 subtitle: Ph.D Student in Sookmyung Women's University
-cover-img: /assets/img/sunset-mountains-snow-winter.jpg
+cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
 <br/>
