@@ -25,7 +25,7 @@ round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-title-img: "/assets/img/sunset-mountains-snow-winter.jpg"
+# title-img: "/assets/img/sunset-mountains-snow-winter.jpg"
 
 
 # --- Footer options --- #
@@ -92,7 +92,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/sunset-mountains-snow-winter.jpg"
 
 # --- Web Statistics Section --- #
 
