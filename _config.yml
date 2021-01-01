@@ -92,7 +92,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/sunset-mountains-snow-winter.jpg"
+#page-img: "/assets/img/sunset-mountains-snow-winter.jpg"
 
 # --- Web Statistics Section --- #
 
