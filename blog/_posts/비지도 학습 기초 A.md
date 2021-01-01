@@ -1,9 +1,19 @@
+---
+layout: post
+title: GAN
+subtitle: 비지도 학습 기초 A 
+gh-repo: soyoung9306/soyoung9306.github.io
+gh-badge: [star, fork, follow]
+tags: [GAN, Unsupervised Learning]
+comments: true
+---
+
 - ## 조건부 확률 
 
-$$ p(y|x) = {p(x,y) \over p(x)} $$
+p(y|x) = \frac{p(x,y)}{p(x)}
 
 
-- **x**가 일어났을 때 **y**가 일어날 확률 **p(y|x)**은 **x**와 **y**가 동시에 일어날 확률**p(x,y)**를 **x**가 일어날 확률**p(x)**로 나눈것입니다. 
+- **x**가 일어났을 때 **y**가 일어날 확률 **p(y|x)** 은 **x** 와 **y** 가 동시에 일어날 확률**p(x,y)**를 **x**가 일어날 확률**p(x)**로 나눈것입니다. 
 
 
 - 이 식은 아래와 같이 정리할 수 있습니다. 
