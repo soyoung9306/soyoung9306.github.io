@@ -9,11 +9,13 @@ cover-img: /assets/img/sunset-mountains-snow-winter.jpg
 
 ## About me
 
-• **Area of interest** : Deep Learning / Machine Learning
+• **Area of interest** : Deep Learning & Machine Learning / CAD & CAE
 
-• **Research domain** : Generative Design / Manufacturing / Domain Adaptation 
+• **Research domain** :  
+    - DL & ML : 3D Deep-learning, Domain Adaptation 
+    - CAD&CAE : Generative Design, Computer-automated design, Automated Finite Element Analysis
 
-• **Main skill** : 3D Deep learning on 3D data (CAD, Mesh, Voxel and Point-cloud)
+• **Main skill** : Python, Matlab, Fusion360, Hyperworks, Simlab, Inspire
 
 ## Contact
 
