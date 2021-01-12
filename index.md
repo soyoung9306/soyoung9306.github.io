@@ -13,7 +13,7 @@ cover-img: /assets/img/sunset-mountains-snow-winter.jpg
 
 • **Research domain** :  
     - DL & ML : 3D Deep-learning, Domain Adaptation  
-    - CAD&CAE : Generative Design, Automated design, Automated Finite Element Analysis
+    - CAD&CAE : Generative Design 
 
 • **Main skill** : Python, Matlab, Fusion360, Hyperworks, Simlab, Inspire
 
