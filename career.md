@@ -15,7 +15,7 @@ title: Research Career
 
 
 * `LG전자`, **인공지능 기반 제너레이티브 디자인을 통한 TV 구조설계**, 2021.2-2022.12
-  * Role: Project Manager 
+  * Role: 
 
 
 #### (completed)
