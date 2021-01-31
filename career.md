@@ -41,7 +41,7 @@ title: Research Career
   * Role: 2D Generative Design 설계안 전처리 방법 개발, 3D 로드 휠 자동 설계 방법 개발 
 
 
-* <span style="color:	#00aad2">** 현대자동차 **</span>, 
+* <span style="color:	#00aad2"> 현대자동차 </span>, 
   * 과제명 : 자율주행 기술 수용성 증진을 위한 필드스터디 기반 사용자 경험 연구
   * 2018.10-2019.3
   * Role: Project Manger
