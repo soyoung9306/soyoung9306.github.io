@@ -13,7 +13,7 @@ title: Research Career
 * <span style="color:	#00aad2"> 현대자동차  </span>, 
   * 과제명 : 통합열관리제어로직 개발에 사용될 학습기반 에어컨 PLANT/CONTROL 모델 구축 기법 개발 
   * 2021.5-2022.4
-  * Role: Project Manager 
+  * Role: 
   
 * <span style="color:	#A50034"> LG전자 </span>, 
   * 과제명 : 인공지능 기반 제너레이티브 디자인을 통한 TV 구조설계
