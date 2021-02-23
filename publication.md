@@ -7,6 +7,7 @@ title: Publication
 ### Journal Papers
 
 #### International
+- Jang, S., **Yoo, S.**, and Kang, N.* “Generative Design by Reinforcement Learning: Enhancing the Diversity of Topology Optimization Designs", Computer-Aided Design 
 
 - **Yoo, S.** and Kang, N.* “Explainable Artificial Intelligence for Manufacturing Cost Estimation and Machining Feature Visualization", Expert Systems with Applications.
 
